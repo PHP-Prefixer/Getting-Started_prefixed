@@ -1,0 +1,35 @@
+{
+    "name": "php-prefixer/getting-started",
+    "description": "Documentation for the PHP-Prefixer service",
+    "autoload": {
+        "classmap": [
+            "src/ASimpleLogWarning.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Formatter/LineFormatter.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/AbstractHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/BufferHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/GroupHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/HandlerInterface.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/MailHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/NullHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/StreamHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/SyslogHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Handler/TestHandler.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Logger.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php",
+            "vendor_prefixed/monolog/monolog/src/Monolog/Processor/WebProcessor.php"
+        ],
+        "files": []
+    }
+}
