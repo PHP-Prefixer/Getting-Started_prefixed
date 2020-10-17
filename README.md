@@ -54,3 +54,7 @@ A few notes for future testers:
 ## License
 
 MIT License
+
+## Copyright
+
+Copyright (c) 2020 Desarrollos Inteligentes Virtuales, SL
